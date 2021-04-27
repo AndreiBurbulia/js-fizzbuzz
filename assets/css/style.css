@@ -8,9 +8,13 @@ body{
     text-align: center;
 }
 
+h1{
+    margin: 4rem 0;
+}
+
 .box{
-    background-color: burlywood;
-    /* border: 1px solid black; */
+    background: linear-gradient(180deg, #6F74ED 0%, #A3E2AD 100%); 
+    box-shadow: 17px 17px 17px rgba(0, 0, 0, 0.19);
     width: 50%;
     margin: 0 auto;
     padding: 2rem;
